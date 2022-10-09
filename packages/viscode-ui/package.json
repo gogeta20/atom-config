@@ -1,0 +1,46 @@
+{
+  "_from": "https://www.atom.io/api/packages/viscode-ui/versions/0.3.1/tarball",
+  "_id": "viscode-ui@0.3.1",
+  "_inBundle": false,
+  "_integrity": "sha512-M+EIMRfq4+LLrTvU8IkMq7Y399uRctsUpRY6A48SOQW1WP0kzEBPi3peO0dlzRKumeiGuQ6Ci3EUhbq/4hnDfw==",
+  "_location": "/viscode-ui",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/viscode-ui/versions/0.3.1/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/viscode-ui/versions/0.3.1/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/viscode-ui/versions/0.3.1/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/viscode-ui/versions/0.3.1/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/viscode-ui/versions/0.3.1/tarball",
+  "_shasum": "f24f264046fe8260003dda751f64e0d08af87a52",
+  "_spec": "https://www.atom.io/api/packages/viscode-ui/versions/0.3.1/tarball",
+  "_where": "C:\\Users\\mvarmen\\AppData\\Local\\Temp\\apm-install-dir-20211130-17096-1tnttca.c5mch",
+  "bugs": {
+    "url": "https://github.com/DiDream/viscode-ui/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Visual Studio Code theme for Atom editor",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/DiDream/viscode-ui#readme",
+  "keywords": [
+    "ui",
+    "theme",
+    "visual studio code"
+  ],
+  "license": "MIT",
+  "name": "viscode-ui",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiDream/viscode-ui.git"
+  },
+  "theme": "ui",
+  "version": "0.3.1"
+}

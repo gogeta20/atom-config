@@ -1,0 +1,16 @@
+"*":
+  core:
+    packagesWithKeymapsDisabled: []
+    telemetryConsent: "limited"
+    themes: [
+      "viscode-ui"
+      "dark-plus-syntax"
+    ]
+    uriHandlerRegistration: "never"
+  editor:
+    fontSize: 13
+  "exception-reporting":
+    userId: "a01fceb1-f690-446e-b7bd-dc7f12bb9b6f"
+  "go-find-references": {}
+  welcome:
+    showOnStartup: false

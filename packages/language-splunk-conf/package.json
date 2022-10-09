@@ -1,0 +1,41 @@
+{
+  "_from": "https://www.atom.io/api/packages/language-splunk-conf/versions/0.2.2/tarball",
+  "_id": "language-splunk-conf@0.2.2",
+  "_inBundle": false,
+  "_integrity": "sha512-I/bEvm1K7OyTwoBdJaU3NjoX0ySsEtYL8L7IHMM/Ivuazncfs0Tp+V4HLnYW3/7bymhMDWYQ8nBD70Se5r5NpQ==",
+  "_location": "/language-splunk-conf",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/language-splunk-conf/versions/0.2.2/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/language-splunk-conf/versions/0.2.2/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/language-splunk-conf/versions/0.2.2/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/language-splunk-conf/versions/0.2.2/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/language-splunk-conf/versions/0.2.2/tarball",
+  "_shasum": "466cf2b6d1718d391b488e94195237288f8ded54",
+  "_spec": "https://www.atom.io/api/packages/language-splunk-conf/versions/0.2.2/tarball",
+  "_where": "C:\\Users\\mvarmen\\AppData\\Local\\Temp\\apm-install-dir-202218-13764-18scosp.ycb1k",
+  "bugs": {
+    "url": "https://github.com/GordonWang/language-splunk-conf/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "Splunk conf file highlighting in Atom",
+  "engines": {
+    "atom": "*"
+  },
+  "homepage": "https://github.com/GordonWang/language-splunk-conf#readme",
+  "license": "Apache License 2.0",
+  "name": "language-splunk-conf",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GordonWang/language-splunk-conf.git"
+  },
+  "version": "0.2.2"
+}

@@ -1,0 +1,46 @@
+{
+  "_from": "https://www.atom.io/api/packages/hosts-edit/versions/1.0.1/tarball",
+  "_id": "hosts-edit@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-Oaj5/WpSmhhKt4Ubsg32UyOhGHnKTB9IH7WQvVCikgqvobgfojz1jNwRjwqN3JTMaC7M23C1sHBgsQWpI+YBtg==",
+  "_location": "/hosts-edit",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/hosts-edit/versions/1.0.1/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/hosts-edit/versions/1.0.1/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/hosts-edit/versions/1.0.1/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/hosts-edit/versions/1.0.1/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/hosts-edit/versions/1.0.1/tarball",
+  "_shasum": "f587007ad0c3d2bfed56067b41545aabb471cb0f",
+  "_spec": "https://www.atom.io/api/packages/hosts-edit/versions/1.0.1/tarball",
+  "_where": "C:\\Users\\mvarmen\\AppData\\Local\\Temp\\apm-install-dir-2022729-14260-543y3.8wxnip",
+  "activationCommands": {
+    "atom-workspace": "hosts-edit:toggle"
+  },
+  "bugs": {
+    "url": "https://github.com/crtlf/hosts-edit/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "Open your hosts file quickly",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/crtlf/hosts-edit#readme",
+  "keywords": [],
+  "license": "MIT",
+  "main": "./lib/hosts-edit",
+  "name": "hosts-edit",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crtlf/hosts-edit.git"
+  },
+  "version": "1.0.1"
+}

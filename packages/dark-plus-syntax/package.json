@@ -1,0 +1,53 @@
+{
+  "_from": "https://www.atom.io/api/packages/dark-plus-syntax/versions/2.5.0/tarball",
+  "_id": "dark-plus-syntax@2.5.0",
+  "_inBundle": false,
+  "_integrity": "sha512-oiQ38a5IYORtittYjLYEPC69PJlBPmjggMJk6fSoU+F00oYUUQQnANybxnLW8Ur6dBN7YRyt10G5g8qfg+w2IQ==",
+  "_location": "/dark-plus-syntax",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/dark-plus-syntax/versions/2.5.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/dark-plus-syntax/versions/2.5.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/dark-plus-syntax/versions/2.5.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/dark-plus-syntax/versions/2.5.0/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/dark-plus-syntax/versions/2.5.0/tarball",
+  "_shasum": "b4524eb270b22478101c1d0d7cedd8d267e61c1b",
+  "_spec": "https://www.atom.io/api/packages/dark-plus-syntax/versions/2.5.0/tarball",
+  "_where": "C:\\Users\\mvarmen\\AppData\\Local\\Temp\\apm-install-dir-20211130-9280-1et4pac.7aefk",
+  "bugs": {
+    "url": "https://github.com/dunstontc/atom-vscode-syntax/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "atom-space-pen-views": "^2.2.0"
+  },
+  "deprecated": false,
+  "description": "VS Code's 'Dark+' (default dark) theme",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/dunstontc/atom-vscode-syntax#readme",
+  "keywords": [
+    "atom",
+    "dark",
+    "syntax",
+    "theme",
+    "visual studio code",
+    "vscode"
+  ],
+  "license": "MIT",
+  "main": "./lib/vsc-syntax.coffee",
+  "name": "dark-plus-syntax",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dunstontc/atom-vscode-syntax.git"
+  },
+  "theme": "syntax",
+  "version": "2.5.0"
+}
